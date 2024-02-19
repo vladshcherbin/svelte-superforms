@@ -6,6 +6,10 @@
     "dev": "vite dev",
     "preview": "vite preview"
   },
+  "dependencies": {
+    "sveltekit-superforms": "^2.3.0",
+    "valibot": "^0.28.1"
+  },
   "devDependencies": {
     "@sveltejs/adapter-node": "^4.0.1",
     "@sveltejs/kit": "^2.5.0",
